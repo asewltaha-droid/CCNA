@@ -1,2 +1,7 @@
 # CCNA
-Labs for ccna
+Practies in network fundumental and labs
+
+contant : -
+ping
+cli
+ssh&telnet&line encryption
